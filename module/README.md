@@ -5,6 +5,8 @@
     <img src="https://github.com/JunStitch/ML/tree/master/module/Linear_Regression/linear_regression.png" width="500"\>
 </p>
 
+![image](https://github.com/JunStitch/ML/tree/master/module/Linear_Regression/linear_regression.png)
+
 ## Logistic Regression
 <p align='center'>
     <img src="https://github.com/JunStitch/ML/tree/master/module/Logistic_Regression/logistic_regression.png" width="500"\>
